@@ -5,7 +5,7 @@ const stopbtn = document.querySelector('.stop');
 const resetbtn = document.querySelector('.reset')
 
 let a = 9;
-let cont = 3;
+let cont = 60;
 let sec = 0;
 
 let min = 0;
