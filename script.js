@@ -64,5 +64,5 @@ resetbtn.addEventListener('click' , ()=>{
     min = 0;
     seconds.innerHTML = '00';
     minuets.innerHTML = '00';
-    clearinterval(interval)
+    clearInterval(interval);
 })
